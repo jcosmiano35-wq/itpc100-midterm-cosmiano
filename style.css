@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Company Profile Card</title>
+    <link rel="stylesheet" href="styles.css"> 
+    
+    <style>
+        article {
+            background-color: sky blue; /* cite: 44 */
+            font-family: Calibre, Helvetica, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>TechStart Inc.</h1> <p>Innovating for the future.</p> </header>
+
+    <main>
+        <article>
+            <h2>About Us</h2>
+            <p>We are a new startup focused on building amazing web experiences.</p> </article>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 TechStart Inc.</p> <button style="background-color: blue; color: white; padding: 10px 20px;">Contact Us</button> </footer>
+</body>
+</html>
