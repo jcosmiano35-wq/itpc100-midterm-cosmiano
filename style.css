@@ -1,10 +1,10 @@
 /* styles.css */
 body {
-    background-color: #f0f0f0; /* Change page background (cite: 40) */
-    font-family: Arial, sans-serif; /* Set global font (cite: 40) */
+    background-color: #f0f0f0; 
+    font-family: Arial, sans-serif; 
     display: flex;
     flex-direction: column;
-    align-items: center; /* Center main content (cite: 40) */
+    align-items: center; 
     justify-content: center;
     min-height: 100vh;
     margin: 0;
